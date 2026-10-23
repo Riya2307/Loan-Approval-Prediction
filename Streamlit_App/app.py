@@ -19,7 +19,7 @@ st.set_page_config(
 )
 
 st.title("🏦 Loan Approval Prediction System")
-st.markdown("### Fill in your details to check loan eligibility"
+st.markdown("### Fill in your details to check loan eligibility")
 st.divider()
 
 @st.cache_resource
